@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 🎓 CS @ Oregon State University <br><br>
 I’m a Computer Science student at OSU with a previous life in operations and strategy. Having spent 5+ years leading teams and launching new locations, I’ve seen firsthand how complex projects fail and where systems break. I’m now focusing on building a strong technical foundation to bridge that gap.<br><br>
 Currently seeking 2026 internship opportunities that take advantage of this blend of leadership experience and technical fundamentals to build tools that solve real-world problems.
-
-🌱 I’m currently learning relational database fundamentals and diving deeper on JavaScript and React
+<br>
+<br>
+🌱 I’m currently learning relational database fundamentals and diving deeper on JavaScript and React<br>
 🤔 Currently interested in 🌍 Climate Tech | 👁️ Computer Vision | 🚁 Drone Tech
 
 ## 💻 Tech Stack:
