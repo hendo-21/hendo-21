@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🚀 CS @ Oregon State | Systems-Thinker & Project Lead I am a Computer Science student at OSU with 5+ years of Director-level experience in strategy and operations. I’m currently bridging the gap between my background in enterprise systems and the technical fundamentals of software engineering. My goal is to build with a production-oriented perspective. I bring the maturity of a seasoned leader who has managed enterprise-scale launches to every line of code I write.
+🚀 CS @ Oregon State | Systems-Thinker & Project Lead 
+I am a Computer Science student at OSU with 5+ years of Director-level experience in strategy and operations. I’m currently bridging the gap between my background in enterprise systems and the technical fundamentals of software engineering. My goal is to build with a production-oriented perspective. I bring the maturity of a seasoned leader who has managed enterprise-scale launches to every line of code I write.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ian-henderson-la) 
