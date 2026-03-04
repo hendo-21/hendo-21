@@ -29,6 +29,7 @@ Currently seeking 2026 internship opportunities that take advantage of this blen
 ## 🏗️ Projects:
 - [Fun Money Tracker: full stack web app](https://github.com/hendo-21/PocketPlan) <br>
 - In progress: [Coffee QC relational database admin web portal](https://github.com/hendo-21/CS340---Term-Project)<br>
+- In progress: [Computer vision project: surf analysis of local break using public video feed](https://github.com/hendo-21/Dawn-Patrol)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-henderson-la/) 
