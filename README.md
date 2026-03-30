@@ -35,7 +35,3 @@ Currently seeking 2026 internship opportunities that take advantage of this blen
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-henderson-la/) 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hendo-21&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hendo-21&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hendo-21&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
