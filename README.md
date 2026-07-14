@@ -21,7 +21,7 @@ I’m a Computer Science student at OSU with a previous life in operations and s
 Currently seeking 2026 internship opportunities that take advantage of this blend of leadership experience and technical fundamentals to build tools that solve real-world problems.
 <br>
 <br>
-🌱 I’m currently learning relational database fundamentals and diving deeper on JavaScript and React<br>
+🌱 I'm currently learning about building RAG pipelines, multi-tool agent workflows and model fine-tuning.<br>
 🤔 Currently interested in 🌍 Climate Tech | 👁️ Computer Vision | 🚁 Drone Tech
 
 ## 💻 Tech Stack:
