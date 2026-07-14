@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-🎓 CS @ Oregon State University <br><br>
+🎓 CS @ Oregon State University 🦫 <br><br>
 I’m a Computer Science student at OSU with a previous life in operations and strategy. Having spent 5+ years leading teams and launching new locations, I’ve seen firsthand how complex projects fail and where systems break. I’m now focusing on building a strong technical foundation to bridge that gap.<br><br>
 Currently seeking 2026 internship opportunities that take advantage of this blend of leadership experience and technical fundamentals to build tools that solve real-world problems.
 <br>
