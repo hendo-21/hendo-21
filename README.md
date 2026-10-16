@@ -36,7 +36,8 @@ Currently seeking 2026 internship opportunities that take advantage of this blen
 - In progress: [Computer vision project: surf analysis of local break using public video feed](https://github.com/hendo-21/Dawn-Patrol)
 
 ### 🔧 Open Source Contributions:
-- [pyfenn/fenn](https://github.com/pyfenn/fenn) — CI spell-check workflow, regression test, and pre-commit tooling
+- [pyfenn/fenn](https://github.com/pyfenn/fenn) - Merged pull requests:
+  - [Fixed path resolution bug in `profile.execute()` and added regression test for template missing `main.py`](https://github.com/pyfenn/fenn/pull/263)
   - [Add CI spell-check workflow via typos](https://github.com/pyfenn/docs/pull/8) — authored GitHub Actions workflow, verified locally with `act` prior to merge
   - [Add regression test for target dir creation in fenn pull (#108)](https://github.com/pyfenn/fenn/pull/108)
   - [Integrate pre-commit tooling + misspelled method fix](https://github.com/pyfenn/fenn/pull/123)
