@@ -29,6 +29,7 @@ Currently seeking 2026 internship opportunities that take advantage of this blen
 
 ## 🏗️ Projects:
 - [USD Asset Validator](https://github.com/hendo-21/USD-Validator)<br>
+- [Women's Health Disparity Network Analysis](https://github.com/hendo-21/CS520-Final-Project)<br>
 - [Fun Money Tracker: full stack web app](https://github.com/hendo-21/PocketPlan)<br>
 - [Coffee QC relational database admin web portal](https://github.com/hendo-21/Coffee-QC-Database-Admin-Portal)<br>
 - [x86 Assembly String Parser](https://github.com/hendo-21/x86-Assembly-String-Parser)<br>
