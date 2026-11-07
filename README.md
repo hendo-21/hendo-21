@@ -36,6 +36,8 @@ Currently seeking 2026 internship opportunities that take advantage of this blen
 - In progress: [Computer vision project: surf analysis of local break using public video feed](https://github.com/hendo-21/Dawn-Patrol)
 
 ### 🔧 Open Source Contributions:
+- [python/typeshed](https://github.com/python/typeshed/pull/16729) - Merged pull requests:
+  - [Resolve Incompletes for graph-returning algorithm stubs in networkx](https://github.com/python/typeshed/pull/16729)
 - [pyfenn/fenn](https://github.com/pyfenn/fenn) - Merged pull requests:
   - [Fixed path resolution bug in `profile.execute()` and added regression test for template missing `main.py`](https://github.com/pyfenn/fenn/pull/263)
   - [Add CI spell-check workflow via typos](https://github.com/pyfenn/docs/pull/8) — authored GitHub Actions workflow, verified locally with `act` prior to merge
